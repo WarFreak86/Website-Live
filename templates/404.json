@@ -1,1 +1,41 @@
-{"sections":{"main":{"type":"main-404","settings":{}}},"order":["main"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-404",
+      "disabled": true,
+      "settings": {}
+    },
+    "hero_hML4M4": {
+      "type": "hero",
+      "name": "Hero",
+      "settings": {
+        "eyebrow": "Official metal posters",
+        "heading": "Art that lasts a lifetime.",
+        "subtext": "The original metal poster.",
+        "primary_label": "Shop the collection",
+        "primary_link": "",
+        "secondary_label": "Learn more",
+        "secondary_link": "",
+        "text_alignment": "left",
+        "background_color": "#101113",
+        "text_color": "#F4EFE6",
+        "overlay_opacity": 55,
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
+    }
+  },
+  "order": [
+    "main",
+    "hero_hML4M4"
+  ]
+}
