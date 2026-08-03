@@ -1,1 +1,101 @@
-{"sections":{"main":{"type":"main-collection-product-grid","settings":{"eyebrow":"Archive Collection","custom_title":"Collector Works","editorial_intro":"<p>Curated editions and release artifacts from the Render-Lab archive.</p>","description_source":"collection","show_collection_description":true,"show_collection_hero_image":true,"hero_overlay_opacity":30,"text_alignment":"left","background_color":"#050505","text_color":"#F4EFE6","muted_text_color":"#A7A29A","border_color":"#2A2B2F","header_padding_top":36,"header_padding_bottom":36,"layout_style":"editorial","products_per_page":12,"card_image_ratio":"portrait","card_image_size":"default","card_spacing":16,"columns_desktop":"3","columns_mobile":"1","hover_style":"both","enable_filtering":true,"enable_sorting":true,"filters_button_label":"Filter Archive"}}},"order":["main"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "eyebrow": "Archive Collection",
+        "custom_title": "Collector Works",
+        "editorial_intro": "<p>Curated editions and release artifacts from the Render-Lab archive.</p>",
+        "description_source": "collection",
+        "show_collection_description": true,
+        "custom_description": "",
+        "show_collection_hero_image": true,
+        "hero_overlay_opacity": 30,
+        "text_alignment": "left",
+        "background_color": "#050505",
+        "text_color": "#f4efe6",
+        "muted_text_color": "#a7a29a",
+        "border_color": "#2a2b2f",
+        "header_padding_top": 36,
+        "header_padding_bottom": 36,
+        "layout_style": "editorial",
+        "products_per_page": 12,
+        "card_image_ratio": "portrait",
+        "card_image_size": "default",
+        "card_spacing": 16,
+        "columns_desktop": "3",
+        "columns_mobile": "1",
+        "hover_style": "both",
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "filters_button_label": "Filter Archive"
+      }
+    },
+    "collection_list_PHRUhP": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_MGxnCP": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection_L39ye4": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection_UBQ6kE": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_MGxnCP",
+        "collection_L39ye4",
+        "collection_UBQ6kE"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "heading": "Shop by collection"
+      }
+    },
+    "collage_editorial_DyUgbk": {
+      "type": "collage-editorial",
+      "blocks": {
+        "item_em8Ptc": {
+          "type": "item",
+          "settings": {
+            "heading": "Studio setup",
+            "text": "Community-inspired spaces."
+          }
+        }
+      },
+      "block_order": [
+        "item_em8Ptc"
+      ],
+      "name": "Collage editorial",
+      "settings": {
+        "heading": "Editorial collage"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "collection_list_PHRUhP",
+    "collage_editorial_DyUgbk"
+  ]
+}
